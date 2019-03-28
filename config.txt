@@ -1,0 +1,6 @@
+{
+  "ip_server": "192.168.252.199",
+  "db_name": "rep",
+  "version": "1.0",
+  "ver_api": "1.0"
+}
